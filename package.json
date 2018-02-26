@@ -56,7 +56,7 @@
   },
   "peerDependencies": {
     "react-native": ">=0.28.0",
-    "react-native-navigation-experimental-compat", ">=1.0.0"
+    "react-native-navigation-experimental-compat": ">=1.0.0"
   },
   "babelBoilerplateOptions": {
     "entryFileName": "index.js"
