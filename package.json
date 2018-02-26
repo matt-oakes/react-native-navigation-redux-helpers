@@ -2,7 +2,7 @@
   "name": "react-native-navigation-redux-helpers",
   "version": "0.5.0",
   "description": "Redux helpers for React Native navigation",
-  "main": "dist/index.js",
+  "main": "src/index.js",
   "scripts": {
     "test": "gulp",
     "lint": "gulp lint",
